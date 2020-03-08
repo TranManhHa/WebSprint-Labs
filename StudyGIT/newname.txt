@@ -1,0 +1,2 @@
+How to read the output of git diff command
+Trước là stage - Sau là working directory
